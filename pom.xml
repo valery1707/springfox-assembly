@@ -4,7 +4,7 @@
 
     <groupId>com.github.valery1707</groupId>
     <artifactId>springfox-assembly</artifactId>
-    <version>2.8.0</version>
+    <version>2.9.1</version>
 
     <build>
         <plugins>
